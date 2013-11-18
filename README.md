@@ -5,3 +5,4 @@ Test repo
 New line
 Second new line
 New line by local
+Master line
